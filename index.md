@@ -5,7 +5,7 @@
 # this work, you have to use › layout: frontpage
 #
 layout: frontpage
-title: "Data Carpentry"
+title: "BCH709"
 header:
    image_fullwidth: "wood_plank.jpg"
 widget-1:
