@@ -21,7 +21,7 @@ description: "BCH709 is a lecture that that develops and provides bioinformatics
 
 # This URL is the main adresse. Don't include a slash at the end.
 #
-url: "https://datacarpentry.org"
+url: "https://ascendo.github.io"
 baseurl: ""
 
 twitter_name: "@datacarpentry"
