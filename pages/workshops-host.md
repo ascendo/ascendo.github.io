@@ -1,10 +1,10 @@
 ---
 layout: page-fullwidth
 show_meta: false
-title: "Host a Workshop"
+title: "prerequisite for class"
 header:
    image_fullwidth: "wood_plank.jpg"
-permalink: "/workshops-host/"
+permalink: "/prerequisite/"
 ---
 
 **Information on how to request and host a Data Carpentry workshop.**

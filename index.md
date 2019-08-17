@@ -9,9 +9,9 @@ title: "BCH709"
 header:
    image_fullwidth: "wood_plank.jpg"
 widget-1:
-    title: "Host a Workshop"
-    url: '/workshops-host/'
-    text: 'Find out how to host a workshop at your institution or organization'
+    title: "Prerequisite"
+    url: '/prerequisite/'
+    text: 'Find out how to prepare prerequisite stuff for class'
     image: DC_room3.jpg
 widget-2:
     title: "Attend a Workshop"
