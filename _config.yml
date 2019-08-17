@@ -8,15 +8,15 @@
 #                                                 /____/        
 #
 # Title of your website
-title: "Data Carpentry"
+title: "BCH709 Introduction to Bioinformatics"
 
 
 # The slogan describes your website and is used on homepage in <title> and other important places
-slogan: "Making data science more efficient"
+slogan: "Making your science more efficient"
 
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: "Data Carpentry is a lesson program of The Carpentries that develops and provides data skills training to researchers."
+description: "BCH709 is a lecture that that develops and provides bioinformatics skills training to students."
 
 
 # This URL is the main adresse. Don't include a slash at the end.
