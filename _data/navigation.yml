@@ -8,18 +8,18 @@
   dropdown:
   - title: "Mission & Vision"
     url: "/mission/"
-  - title: "Media"
-    url: "https://carpentries.org/citations/"
+ # - title: "Media"
+  #  url: "https://carpentries.org/citations/"
   - title: "Our Team"
     url: "https://carpentries.org/team/"
-  - title: "Code of Conduct"
-    url: "https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html"
-  - title: "Governance"
-    url: "https://carpentries.org/governance/"
+#  - title: "Code of Conduct"
+#    url: "https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html"
+#  - title: "Governance"
+#    url: "https://carpentries.org/governance/"
   - title: "Assessment"
     url: "/assessment/"
 
-- title: "Workshops"
+- title: "Course"
   url: "/workshops/"
   side: left
   dropdown:
