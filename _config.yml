@@ -103,7 +103,7 @@ defaults:
       show_meta: true 	# Show metadata beneath all pages
       # sidebar:    		# Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: "your_author_name"
+      author: "Won Yim"
   -
     scope:
       path: ""        
@@ -112,7 +112,7 @@ defaults:
       show_meta: true   # Show metadata beneath all posts
       # sidebar:        # Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: "your_author_name"
+      author: "Won Yim"
 
 
 #       _   __            _             __  _           
@@ -170,8 +170,8 @@ msapplication_tilecolor:                "#fabb00"
 og_image:                           "http://images.phlow.de/phlow/phlow_de-logo-512x.png"
 og_locale:                          "en_EN"
 og_type:                            "website"
-og_title:                           "Data Carpentry"
-og_description:                     "Data Carpentry trains researchers in data skills"
+og_title:                           "BCH709"
+og_description:                     "Introduction to Bioinformatics"
 # og_url:                           ""
 # og_site_name:                     ""
 
