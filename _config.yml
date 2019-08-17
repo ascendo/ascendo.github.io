@@ -36,7 +36,7 @@ improve_content: https://github.com/datacarpentry/datacarpentry.github.io/edit/g
 # Example: <img src="{{ site.urlimg }}/{{ post.image.title }}">
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}/image.jpg)
 #
-urlimg: "https://datacarpentry.org/images/"
+urlimg: "https://ascendo.github.io/images/"
 
 
 # Logo size is 600x80 pixels
@@ -55,11 +55,11 @@ paginate_path: "blog/page:num"
 
 
 # Lesson URLs
-dc_github_repo_url: "https://github.com/datacarpentry"
-dc_github_site_url: "https://datacarpentry.org"
-dc_website_url: "https://datacarpentry.org"
+dc_github_repo_url: "https://github.com/ascendo.github.io"
+dc_github_site_url: "https://ascendo.github.io"
+dc_website_url: "https://ascendo.github.io"
 dc_email: "team@carpentries.org"
-instructor_training_url: "https://carpentries.github.io/instructor-training/"
+instructor_training_url: "https://ascendo.github.io/instructor-training/"
 
 # Carpentries website
 swc_website_url: "https://sofware-carpentry.org"
